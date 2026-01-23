@@ -1,4 +1,4 @@
---Create database in your MySQL server
+-- Create database in your MySQL server
 CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
 
 
