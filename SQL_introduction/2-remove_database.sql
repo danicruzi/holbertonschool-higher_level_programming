@@ -1,5 +1,2 @@
--- Creates the table first_table
-CREATE TABLE IF NOT EXISTS first_table (
-    id INT,
-    name VARCHAR(256)
-);
+-- Delete database for my SQL file
+DROP DATABASE IF EXISTS hbtn_0c_0;
