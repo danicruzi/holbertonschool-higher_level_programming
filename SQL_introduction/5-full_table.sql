@@ -1,2 +1,2 @@
 -- List all in table for my SQL file
-SELECT * FROM first_table;
+SHOW CREATE TABLE first_table;
